@@ -1,0 +1,37 @@
+.desk_wrap {
+    border-radius: 10px;
+    background: #9ada9a;
+    min-height: 80vh;
+}
+
+.header {
+    background: #648f64;
+    border-radius: 10px 10px 0 0 ;
+    line-height: 50px;
+    text-align: right;
+    padding: 0 20px;
+}
+
+.btn_add {
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    background: #F9FABE;
+    cursor: pointer;
+    color: #415f41;
+}
+
+.btn_add:hover {
+    background: #e1e2a8;
+}
+
+.container {
+    padding: 30px;
+}
+
+.sticker_wrap {
+    display: flex;
+    flex-wrap: wrap;
+
+}
